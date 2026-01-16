@@ -22,6 +22,10 @@ I am currently targeting opportunities such as:
 
 in areas like **Data Analytics, Business Intelligence, Information Systems, and ERP/SAP-related roles**.
 
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Abdullah%20Al%20Noman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -135,8 +139,8 @@ An open-source project where I contributed significantly toward implementing and
 
 ## 🤝 Let’s Connect
 
-* GitHub: [https://github.com/nomanmridha](https://github.com/nomanmridha)
-* Open to learning opportunities, feedback, and collaboration
+- 💼 LinkedIn: [Md. Abdullah Al Noman](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
+- 💻 GitHub: https://github.com/nomanmridha
 
 ---
 
