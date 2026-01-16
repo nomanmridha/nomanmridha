@@ -26,14 +26,14 @@ in areas like **Data Analytics, Business Intelligence, Information Systems, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Abdullah%20Al%20Noman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
 
-🏆 Key Academic & Technical Achievements
+## 🏆 Key Academic & Technical Achievements
 
-  📊 Completed multiple data analytics & visualization projects using Excel, Tableau, and Power BI  
-  🧠 Developed strong analytical thinking through real-world business datasets and case studies  
-  🧾 Gained hands-on ERP exposure with SAP S/4HANA (HCM, Payroll, SD, MM)  
-  🧩 Contributed meaningfully to an open-source project (JSON Schema Converter)  
-  📈 Built structured dashboards and reports for management-level insights  
-  🚀 Actively upskilling through Data Science Bootcamp, SAP Learning, and Python practice  
+    📊 Completed multiple data analytics & visualization projects using Excel, Tableau, and Power BI  
+    🧠 Developed strong analytical thinking through real-world business datasets and case studies  
+    🧾 Gained hands-on ERP exposure with SAP S/4HANA (HCM, Payroll, SD, MM)  
+    🧩 Contributed meaningfully to an open-source project (JSON Schema Converter)  
+    📈 Built structured dashboards and reports for management-level insights  
+    🚀 Actively upskilling through Data Science Bootcamp, SAP Learning, and Python practice  
   
 ---
 
