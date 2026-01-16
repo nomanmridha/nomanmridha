@@ -5,14 +5,14 @@
 
 📊 Interested in **Data Analytics, Business Intelligence, ERP Systems, and Applied Informatics**
 🐍 Gradually building hands-on experience in **Python** alongside academic and professional learning
-
+🎯 Actively seeking: Working Student (Werkstudent), Internship, or Junior-level opportunities.
 ---
 
 ## 👨‍🎓 About Me
 
 I am a motivated master's student with a strong interest in the intersection of **informatics, data analytics, and business systems**. My academic work and projects focus on applying technical tools to solve real-world business and analytical problems.
 
-I come from a **Human Resources and ERP background** with 08 years of professional job experience in Bangladesh, which allows me to understand organizational processes and translate business requirements into structured, data-driven and system-oriented solutions. Step by step, I am strengthening my foundation in **programming, analytics, and enterprise systems**, with the goal of becoming industry-ready.
+I came from a **Human Resources and ERP background**, which allows me to understand organizational processes and translate business requirements into structured, data-driven and system-oriented solutions. Step by step, I am strengthening my foundation in **programming, analytics, and enterprise systems**, with the goal of becoming industry-ready.
 
 I am currently targeting opportunities such as:
 
@@ -26,6 +26,19 @@ in areas like **Data Analytics, Business Intelligence, Information Systems, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Abdullah%20Al%20Noman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
 
+🏆 Key Academic & Technical Achievements
+
+📊 Completed multiple data analytics & visualization projects using Excel, Tableau, and Power BI
+
+🧠 Developed strong analytical thinking through real-world business datasets and case studies
+
+🧾 Gained hands-on ERP exposure with SAP S/4HANA (HCM, Payroll, SD, MM)
+
+🧩 Contributed meaningfully to an open-source project (JSON Schema Converter)
+
+📈 Built structured dashboards and reports for management-level insights
+
+🚀 Actively upskilling through Data Science Bootcamp, SAP Learning, and Python practice
 ---
 
 ## 🛠️ Skills & Tools
