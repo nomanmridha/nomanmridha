@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Noman Mridha
 
-🎓 **M.Sc Student in Informatics & Wirtschaft (Information Systems & Business)**
+🎓 **M.Sc Student in Informatics & Wirtschaft (Information Systems & Business)**  
 🏫 **Fachhochschule Südwestfalen** (German Public University)
 
-📊 Interested in **Data Analytics, Business Intelligence, ERP Systems, and Applied Informatics**
+📊 Interested in **Data Analytics, Business Intelligence, ERP Systems, and Applied Informatics**  
 🐍 Gradually building hands-on experience in **Python** alongside academic and professional learning
-🎯 Actively seeking: Working Student (Werkstudent), Internship, or Junior-level opportunities.
+
 ---
 
 ## 👨‍🎓 About Me
@@ -28,17 +28,13 @@ in areas like **Data Analytics, Business Intelligence, Information Systems, and 
 
 🏆 Key Academic & Technical Achievements
 
-📊 Completed multiple data analytics & visualization projects using Excel, Tableau, and Power BI
-
-🧠 Developed strong analytical thinking through real-world business datasets and case studies
-
-🧾 Gained hands-on ERP exposure with SAP S/4HANA (HCM, Payroll, SD, MM)
-
-🧩 Contributed meaningfully to an open-source project (JSON Schema Converter)
-
-📈 Built structured dashboards and reports for management-level insights
-
-🚀 Actively upskilling through Data Science Bootcamp, SAP Learning, and Python practice
+  📊 Completed multiple data analytics & visualization projects using Excel, Tableau, and Power BI  
+  🧠 Developed strong analytical thinking through real-world business datasets and case studies  
+  🧾 Gained hands-on ERP exposure with SAP S/4HANA (HCM, Payroll, SD, MM)  
+  🧩 Contributed meaningfully to an open-source project (JSON Schema Converter)  
+  📈 Built structured dashboards and reports for management-level insights  
+  🚀 Actively upskilling through Data Science Bootcamp, SAP Learning, and Python practice  
+  
 ---
 
 ## 🛠️ Skills & Tools
@@ -103,7 +99,7 @@ An open-source project where I contributed significantly toward implementing and
 
 ## 🎓 Academic Projects (Summary)
 
-> These projects were completed as part of my M.Sc coursework and will be uploaded progressively with proper documentation.
+> These projects were completed as part of my M.Sc coursework.
 
 * **Data Science & Analytics Projects:** Multiple datasets analyzed and visualized using Excel, Tableau, and Power BI
 * **Java Programming:** Semester-long hands-on assignments focusing on core Java and OOP concepts
@@ -130,13 +126,11 @@ An open-source project where I contributed significantly toward implementing and
   * Final certification: **Data Analyst**
 
 * 🧾 **SAP Online Learning:**
-  *SAP SuccessFactors Employee Central Payroll for Payroll Administrators* (SAP Learning platform)
-
+  *SAP SuccessFactors Employee Central Payroll for Payroll Administrators* (SAP Learning platform)  
 * 📈 **Planned Next Course:**
-  *Business Analytics with Excel* (Simplilearn)
-
+  *Business Analytics with Excel* (Simplilearn)  
 * 🤖 **Generative AI:**
-  Currently completed around **25%** of the *Generative AI* course on Google Skills
+  Currently completed around **25%** of the *Generative AI* course on Google Skills  
 
 ---
 
