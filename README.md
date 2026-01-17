@@ -24,7 +24,7 @@ in areas like **Data Analytics, Business Intelligence, Information Systems, and 
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Abdullah%20Al%20Noman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155)
 
 ## 🏆 Key Academic & Technical Achievements
 
