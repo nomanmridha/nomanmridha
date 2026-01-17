@@ -152,3 +152,7 @@ An open-source project where I contributed significantly toward implementing and
 ---
 
 > *“Consistent learning, honest progress, and practical application.”*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nomanmridha&color=blue&style=flat" />
+</p>
